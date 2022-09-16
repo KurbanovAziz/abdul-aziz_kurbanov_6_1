@@ -1,3 +1,3 @@
 public enum WeaponType {
-    GUN,ONION,KNIFE;
+    GUN,BOW,KNIFE;
 }
