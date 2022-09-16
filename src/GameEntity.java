@@ -2,6 +2,7 @@ public class GameEntity {
     private int health;
     private int damage;
 
+
     public int getHealth() {
         return health;
     }
